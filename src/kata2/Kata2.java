@@ -12,7 +12,7 @@ public class Kata2 {
         for(int key : histogr.keySet()){
             System.out.println(key + " --> " + histogr.get(key));
         }
-
+        
     }
     
 }
